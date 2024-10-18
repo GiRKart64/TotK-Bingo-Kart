@@ -8,7 +8,7 @@ Just extract and run ****TotKBingo.exe****, all files required are included in t
 Non-essential files included are background.png, cross.png, cross-outline.png and win.png. All of these files can be deleted if you do not wish to use them. A marker image will be generated if cross.png is deleted for example. You can set your own customized bingo marker in settings, either a solid color or png image. 
 
 ## Optional files
-Item images & map marker images are available in this archive: [item-images-png.7z](https://mega.nz/file/I9MxUTST#KUXysPhXE3I5gd53em8xW0AB5eqedS2TDxOQPMOcKVo), to use simply extract to your TotK Bingo Kart folder. TotK Bingo Kart will generate text based bingo cards without item images. Map markers can be replaced in this folder with customized map markers too.
+Item images & map marker images are available in this archive: [item-images-png.7z](https://mega.nz/file/I9MxUTST#KUXysPhXE3I5gd53em8xW0AB5eqedS2TDxOQPMOcKVo), to use simply extract to your TotK Bingo Kart folder. TotK Bingo Kart will generate text based bingo cards without these item images. Map markers can be replaced in this folder with customized map markers too.
 
 ## Using TotK Bingo Kart
 Using TotK Bingo Kart is pretty straight forward, simply generate a game by pressing generate button. After that click on a square to mark it as you play. There is options to include or exclude items from a game, all a checked by default. If you wish to output file for OBS (either image or HTML) you can specify it in settings (HTML is a bit more limited), save locations are set to TotK Bingo Kart directory by default but will not be generated until the boxes are checked.
