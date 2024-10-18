@@ -11,12 +11,12 @@ Non-essential files included are background.png, cross.png, cross-outline.png an
 Item images & map marker images are available in this archive: [item-images-png.7z](https://mega.nz/file/I9MxUTST#KUXysPhXE3I5gd53em8xW0AB5eqedS2TDxOQPMOcKVo), to use simply extract to your TotK Bingo Kart folder. TotK Bingo Kart will generate text based bingo cards without these item images. Map markers can be replaced in this folder with customized map markers too.
 
 ## Using TotK Bingo Kart
-Using TotK Bingo Kart is pretty straight forward, simply generate a game by pressing generate button. After that click on a square to mark it as you play. There is options to include or exclude items from a game, all a checked by default. If you wish to output file for OBS (either image or HTML) you can specify it in settings (HTML is a bit more limited), save locations are set to TotK Bingo Kart directory by default but will not be generated until the boxes are checked.
+Using TotK Bingo Kart is pretty straight forward, simply generate a game by pressing generate button. After that click on a square to mark it as you play. There is options to include or exclude items from a game, all a checked by default. If you wish to output file for OBS (either image or HTML) you can specify it in settings, save locations are set to TotK Bingo Kart directory by default but will not be generated until the boxes are checked.
 
-## Saving and loading games.
+## Saving and loading games
 Pretty simple. Save a game if you want to use it again or send it to someone to compete with and load a game you want to continue or someone has sent you.
 
-## Map.
+## Map
 Can show or hide map. Map will show markers for locations (shrines, lightroots & skyview towers), overworld bosses, bosses, armor and monster forces. 
 
 ## Settings
@@ -27,7 +27,7 @@ You can send TotK Bingo game files or a text based list with TotK Object Map lin
 
 ## Future development
 * More accurate TotK Object Map links location links for some items for Discord list (by hash rather than text search)
-* Improved HTML generation
+* Improved HTML generation, it is more limited comparred to image generation for now
 * Feature to exclude specific items like pristine weapons and amiibo items etc.
 * Feature to exclude items based on map, so limit items to surface map for example.
 * Migrate project to C#
