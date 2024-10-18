@@ -17,7 +17,7 @@ Using TotK Bingo Kart is pretty straight forward, simply generate a game by pres
 Pretty simple. Save a game if you want to use it again or send it to someone to compete with and load a game you want to continue or someone has sent you.
 
 ## Map.
-Can show or hide map. Map will show markers for locations (shrines, lightroots & skyview towers), over world bosses, bosses, armor and monster forces. 
+Can show or hide map. Map will show markers for locations (shrines, lightroots & skyview towers), overworld bosses, bosses, armor and monster forces. 
 
 ## Settings
 There is many options in settings to customise bingo cards. Font, size, color etc. Also number marker, position, relative size and outline. You can set your own custom marker here too.
