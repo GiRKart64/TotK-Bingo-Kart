@@ -27,7 +27,7 @@ You can send TotK Bingo game files or a text based list with TotK Object Map lin
 
 ## Future development
 * More accurate TotK Object Map links location links for some items for Discord list (by hash rather than text search)
-* Improved HTML generation, it is more limited comparred to image generation for now
+* Improved HTML generation, it is more limited compared to image generation for now
 * Feature to exclude specific items like pristine weapons and amiibo items etc.
 * Feature to exclude items based on map, so limit items to surface map for example.
 * Migrate project to C#
