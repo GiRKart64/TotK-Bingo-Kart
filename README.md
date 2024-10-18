@@ -26,8 +26,8 @@ There is many options in settings to customise bingo cards. Font, size, color et
 You can send TotK Bingo game files or a text based list with TotK Object Map links to your Discord channel by putting [cURL]( https://curl.se/windows/) in TotK Bingo Kart folder then creating a webhook in Discord and pasting link into Webhook URL on Discord tab in settings. Twitch user name is optional.
 
 ## Future development
-More accurate TotK Object Map links location links for some items for Discord list (by hash rather than text search)
-Improved HTML generation
-Feature to exclude specific items like pristine weapons and amiibo items etc.
-Feature to exclude items based on map, so limit items to surface map for example.
-Migrate project to C#
+* More accurate TotK Object Map links location links for some items for Discord list (by hash rather than text search)
+* Improved HTML generation
+* Feature to exclude specific items like pristine weapons and amiibo items etc.
+* Feature to exclude items based on map, so limit items to surface map for example.
+* Migrate project to C#
